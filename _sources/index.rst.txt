@@ -13,6 +13,10 @@
 
     <i class="fa-fw fa-solid fa-robot"></i>
 
+.. |fa-trooper| raw:: html
+
+    <i class="fa-fw fa-solid fa-person-rifle"></i>
+
 .. |fa-book| raw:: html
 
     <i class="fa-fw fa-solid fa-book"></i>
@@ -48,6 +52,13 @@ Mercenary's Pride
 Mercenary's Pride is a fun project retelling Jane Austin's Pride and Prejudice as a series of BattleTech scenarios and comm logs.
 
 | |fa-book| `Mercenary's Pride <https://mercenarys-pride.jeremylt.org/>`_: retelling Pride and Prejudice in BattleTech
+
+Skirmishers
+********************************************************************************
+
+Skirmishers is a work in progress effort to modernize BattleTroops.
+
+| |fa-trooper| `Skirmishers <https://skirmishers.jeremylt.org/>`_: 28mm infantry combat
 
 Resources
 ********************************************************************************
