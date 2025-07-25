@@ -22,7 +22,7 @@
     <i class="fa-fw fa-solid fa-book"></i>
 
 
-I enjoy playing BattleTech and run demos as part of the `Catalyst Demo Team <https://sites.google.com/view/catalystdemoteam/home>`_.
+I enjoy playing BattleTech and run demos.
 It is especially important to me for new players to feel safe and welcome joining this hobby space.
 See the `Colorado BattleTech <https://coloradobt.org>`_ website to find BattleTech players in Colorado.
 I also help moderate the `Catalyst Game Labs Discord <https://discord.com/invite/catalystgamelabs>`_ community.
