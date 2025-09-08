@@ -63,7 +63,7 @@ Skirmishers is a work in progress effort to modernize BattleTroops.
 Alpha Strike Epic
 ********************************************************************************
 
-.. figure:: img/COBattleTech.webp
+.. figure:: img/COBattleTechLogo.webp
     :alt: Colorado BattleTech logo
     :width: 250px
 
