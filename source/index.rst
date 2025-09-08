@@ -60,6 +60,17 @@ Skirmishers is a work in progress effort to modernize BattleTroops.
 
 | |fa-trooper| `Skirmishers <https://skirmishers.jeremylt.org/>`_: 28mm infantry combat
 
+Alpha Strike Epic
+********************************************************************************
+
+.. figure:: img/COBattleTech.webp
+    :alt: Colorado BattleTech logo
+    :width: 250px
+
+Alpha Strike Epic is a series of Alpha Strike events for Colorado BattleTech with 100-200 minis on the table.
+
+| |fa-mech| `Alpha Strike Epic <https://battletech.jeremylt.org/alpha-strike-epic>`_: More minis = more fun
+
 Resources
 ********************************************************************************
 
