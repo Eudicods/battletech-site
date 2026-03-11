@@ -24,10 +24,32 @@
 
 I enjoy playing BattleTech and run demos.
 It is especially important to me for new players to feel safe and welcome joining this hobby space.
-See the `Colorado BattleTech <https://coloradobt.org>`_ website to find BattleTech players in Colorado.
-I also help moderate the `Catalyst Game Labs Discord <https://discord.com/invite/catalystgamelabs>`_ community.
 
 You can find more stuff I do on my `personal website <https://jeremylt.org>`_.
+
+
+Communities
+********************************************************************************
+
+.. figure:: img/CGLLogo.webp
+    :alt: CGL logo
+    :width: 250px
+
+I help moderate the `Catalyst Game Labs Discord <https://discord.com/invite/catalystgamelabs>`_ community.
+
+.. figure:: img/COBattleTechLogo.webp
+    :alt: Colorado BattleTech logo
+    :width: 250px
+
+I enjoy playing BattleTech and run events as part of `Colorado BattleTech <https://coloradobt.org>`_.
+See the `Colorado BattleTech <https://coloradobt.org>`_ website to find BattleTech players in Colorado.
+
+.. figure:: img/MPULogo.webp
+    :alt: Mech Painters Union logo
+    :width: 250px
+
+The `‘Mech Painters Union <https://mechpainters.org/>`_ is a BattleTech fan group dedicated to working together for better painting.
+We share miniatures that we’ve painted with advice to help each other improve our art.
 
 
 Rules
@@ -95,9 +117,7 @@ It is 100% free, made by fans for fans, and has no affiliation with Topps or Cat
 I have submitted scenarios allowing players to fight 'Red Cell', a violent splinter group formed from Word of Blake remnants who mandate strict adherence to their interpretation of Blakeist ideology.
 
 | |fa-mech| `Pirate Point Issue #1 <https://piratepoint.itch.io/issue-1>`_: March 2025
-
 | |fa-mech| `Pirate Point Issue #2 <https://piratepoint.itch.io/pirate-point-issue-2>`_: September 2025
-
 | |fa-mech| `Pirate Point Issue #3 <https://piratepoint.itch.io/pirate-point-issue-3>`_: March 2026
 
 Units
