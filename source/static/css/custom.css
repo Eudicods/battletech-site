@@ -21,3 +21,12 @@ section section, p, .line-block {
 div.body {
     min-width: 100px !important;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+.header-left {
+    height: 0;
+    width: 0;
+}

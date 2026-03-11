@@ -1,2 +1,2 @@
-sphinx>=3.0
-sphinx_theme
+sphinx>7.3
+furo
