@@ -75,7 +75,12 @@ BattleTech: Outworlds Wastes also has a redesign based upon the new Chaos Campai
 Skirmishers
 --------------------------------------------------------------------------------
 
-Skirmishers is a work in progress effort to modernize BattleTroops.
+.. figure:: img/Skirmishers.webp
+    :alt: Skirmishers cover
+    :width: 250px
+
+Skirmishers is an effort to rebuild the old `BattleTroops <https://www.sarna.net/wiki/BattleTroops>`_ game from FASA.
+We are attempting to overhaul and streamline the rules while expanding them to cover additional weapons and units.
 
 | |fa-trooper| `Skirmishers <https://skirmishers.jeremylt.org/>`_: 28mm infantry combat
 
@@ -119,6 +124,7 @@ I have submitted scenarios allowing players to fight 'Red Cell', a violent splin
 | |fa-mech| `Pirate Point Issue #1 <https://piratepoint.itch.io/issue-1>`_: March 2025
 | |fa-mech| `Pirate Point Issue #2 <https://piratepoint.itch.io/pirate-point-issue-2>`_: September 2025
 | |fa-mech| `Pirate Point Issue #3 <https://piratepoint.itch.io/pirate-point-issue-3>`_: March 2026
+
 
 Units
 ********************************************************************************
