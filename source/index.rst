@@ -116,6 +116,10 @@ Alpha Strike Epic is a series of Alpha Strike events for Colorado BattleTech wit
 Pirate Point
 --------------------------------------------------------------------------------
 
+.. figure:: img/piratePoint.webp
+    :alt: Pirate Point logo
+    :width: 250px
+
 PIRATE POINT is a queer punk fanzine centered around the LGBTQIA+ Battletech community, and was created to provide a place for fans of stompy robots to express ourselves.
 It is 100% free, made by fans for fans, and has no affiliation with Topps or Catalyst Game Labs.
 
