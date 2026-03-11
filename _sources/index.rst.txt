@@ -86,6 +86,20 @@ Alpha Strike Epic is a series of Alpha Strike events for Colorado BattleTech wit
 | |fa-mech| `Alpha Strike Epic <https://battletech.jeremylt.org/alpha-strike-epic>`_: More minis = more fun
 
 
+Pirate Point
+--------------------------------------------------------------------------------
+
+PIRATE POINT is a queer punk fanzine centered around the LGBTQIA+ Battletech community, and was created to provide a place for fans of stompy robots to express ourselves.
+It is 100% free, made by fans for fans, and has no affiliation with Topps or Catalyst Game Labs.
+
+I have submitted scenarios allowing players to fight 'Red Cell', a violent splinter group formed from Word of Blake remnants who mandate strict adherence to their interpretation of Blakeist ideology.
+
+| |fa-mech| `Pirate Point Issue #1 <https://piratepoint.itch.io/issue-1>`_: March 2025
+
+| |fa-mech| `Pirate Point Issue #2 <https://piratepoint.itch.io/pirate-point-issue-2>`_: September 2025
+
+| |fa-mech| `Pirate Point Issue #3 <https://piratepoint.itch.io/pirate-point-issue-3>`_: March 2026
+
 Units
 ********************************************************************************
 
