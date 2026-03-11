@@ -26,9 +26,7 @@ The ultimate goal with this design is to create a fast 'scout' assault mech that
 
 
 | |fa-mech| `AS7-X A.1 <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.1.pdf>`_: version 1
-
 | |fa-mech| `AS7-X A.2 <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.2.pdf>`_: version 2
-
 | |fa-mech| `AS7-X A.3 <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.3.pdf>`_: version 3
 
 
