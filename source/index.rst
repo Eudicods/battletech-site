@@ -27,6 +27,7 @@ It is especially important to me for new players to feel safe and welcome joinin
 See the `Colorado BattleTech <https://coloradobt.org>`_ website to find BattleTech players in Colorado.
 I also help moderate the `Catalyst Game Labs Discord <https://discord.com/invite/catalystgamelabs>`_ community.
 
+
 BattleTech: Outworlds Wastes
 ********************************************************************************
 
@@ -42,6 +43,7 @@ BattleTech: Outworlds Wastes also has a redesign based upon the new Chaos Campai
 
 | |fa-mech| `BattleTech: Outworlds Wastes: Chaos Campaign <https://outworlds-wastes.jeremylt.org>`_: lightweight narrative league and event framework
 
+
 Mercenary's Pride
 ********************************************************************************
 
@@ -53,12 +55,14 @@ Mercenary's Pride is a fun project retelling Jane Austin's Pride and Prejudice a
 
 | |fa-book| `Mercenary's Pride <https://mercenarys-pride.jeremylt.org/>`_: retelling Pride and Prejudice in BattleTech
 
+
 Skirmishers
 ********************************************************************************
 
 Skirmishers is a work in progress effort to modernize BattleTroops.
 
 | |fa-trooper| `Skirmishers <https://skirmishers.jeremylt.org/>`_: 28mm infantry combat
+
 
 Alpha Strike Epic
 ********************************************************************************
@@ -70,6 +74,20 @@ Alpha Strike Epic
 Alpha Strike Epic is a series of Alpha Strike events for Colorado BattleTech with 100-200 minis on the table.
 
 | |fa-mech| `Alpha Strike Epic <https://battletech.jeremylt.org/alpha-strike-epic>`_: More minis = more fun
+
+
+Basic Artillery
+********************************************************************************
+
+.. figure:: img/cannon.webp
+    :alt: 75mm Howitzer
+    :width: 250px
+
+I've always found it a bit odd that basic artillery trailers were not more common in BattleTech.
+I've created basic Age of War and later era towed artillery units based upon the Early Republic era `Gun Trailer (Thumper) <https://masterunitlist.info/Unit/Details/6533/gun-trailer-thumper>`_.
+
+| |fa-mech| `Basic Artillery <https://battletech.jeremylt.org/basic-artillery>`_: Big guns
+
 
 Resources
 ********************************************************************************
