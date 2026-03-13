@@ -12,15 +12,15 @@ Basic Artillery
 I've always found it a bit odd that basic artillery trailers were not more common in BattleTech.
 I've created basic Age of War and later era towed artillery units based upon the Early Republic era `Gun Trailer (Thumper) <https://masterunitlist.info/Unit/Details/6533/gun-trailer-thumper>`_.
 
-| |fa-mech| `Thumper, Simple <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Thumper,_Simple).pdf>`_: no engine, no turret
+| |fa-mech| Thumper, Simple: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Thumper,_Simple).pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Gun_Trailer_(Thumper,_Simple).blk>`_
 
-| |fa-mech| `Thumper, Turret <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Thumper).pdf>`_: engine and turret
+| |fa-mech| Thumper, Turret: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Thumper).pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Gun_Trailer_(Thumper).blk>`_
 
-| |fa-mech| `Sniper, Simple <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Sniper,_Simple).pdf>`_: no engine, no turret
+| |fa-mech| Sniper, Simple: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Sniper,_Simple).pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Gun_Trailer_(Sniper,_Simple).blk>`_
 
-| |fa-mech| `Sniper, Turret <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Sniper).pdf>`_: engine and turret
+| |fa-mech| Sniper, Turret: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Sniper).pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Gun_Trailer_(Sniper).blk>`_
 
-| |fa-mech| `Long Tom, Simple <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Long_Tom,_Simple).pdf>`_: no engine, no turret
+| |fa-mech| Long Tom, Simple: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Long_Tom,_Simple).pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Gun_Trailer_(Long_Tom,_Simple).blk>`_
 
-| |fa-mech| `Long Tom, Turret <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Long_Tom).pdf>`_: engine and turret
+| |fa-mech| Long Tom, Turret: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Gun_Trailer_(Long_Tom).pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Gun_Trailer_(Long_Tom).blk>`_
 
