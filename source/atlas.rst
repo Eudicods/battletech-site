@@ -25,9 +25,9 @@ The ultimate goal with this design is to create a fast 'scout' assault mech that
     :width: 250px
 
 
-| |fa-mech| `AS7-X A.1 <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.1.pdf>`_: version 1
-| |fa-mech| `AS7-X A.2 <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.2.pdf>`_: version 2
-| |fa-mech| `AS7-X A.3 <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.3.pdf>`_: version 3
+| |fa-mech| AS7-X A.1: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.1.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-X_A.1.mtf>`_
+| |fa-mech| AS7-X A.2: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.2.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-X_A.2.mtf>`_
+| |fa-mech| AS7-X A.3: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_A.3.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-X_A.3.mtf>`_
 
 
 AS7-X B "Nutcracker"
@@ -41,5 +41,5 @@ The ultimate goal with this design is to create a maximum damage assault platfor
     :width: 250px
 
 
-| |fa-mech| `AS7-X B.1 <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_B.1.pdf>`_: version 1
+| |fa-mech| AS7-X B.1: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_B.1.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-X_B.1.mtf>`_
 
