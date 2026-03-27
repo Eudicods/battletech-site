@@ -33,7 +33,10 @@ The ultimate goal with this design is to create a fast 'scout' assault mech that
 AS7-X B "Nutcracker"
 --------------------------------------------------------------------------------
 
-This Wolf's Dragoons experimental version of the Atlas focuses on maximum firepower. Engineers started with the venerable AS7-D and swapped the single heat sinks for clan double heat sinks.
+This Wolf's Dragoons experimental version of the Atlas focuses on maximum firepower.
+Engineers started with the venerable AS7-D and swapped the single heat sinks for clan double heat sinks.
+The medium lasers and SRM launcher were then replaced with extended range large lasers to improve the damage output at range.
+
 The ultimate goal with this design is to create a maximum damage assault platform.
 
 .. figure:: img/nutcracker.webp
@@ -42,4 +45,5 @@ The ultimate goal with this design is to create a maximum damage assault platfor
 
 
 | |fa-mech| AS7-X B.1: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_B.1.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-X_B.1.mtf>`_
+| |fa-mech| AS7-X B.2: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-X_B.2.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-X_B.2.mtf>`_
 
