@@ -15,9 +15,11 @@ I've worked on a few custom Atlas variants representing experimental R&D in the 
 AS7-X A "Magpie"
 --------------------------------------------------------------------------------
 
-This Wolf's Dragoons experimental version of the Atlas focuses on maximum speed. Engineers started with the venerable AS7-D and swapped the standard fusion engine for a clan XL engine.
-Then, the single heat sinks in the engine were then replaced with double heat sinks, allowing for higher sustained fire from the unit.
+This Wolf's Dragoons experimental version of the Atlas focuses on maximum speed.
+Engineers started with the venerable AS7-D and swapped the standard fusion engine for a clan XL engine.
+Then, the single heat sinks in the engine were replaced with double heat sinks, allowing for higher sustained fire from the unit.
 Next, a supercharger was added, and the AC-20 and SRM-6 launcher were replaced with 2 PPCs, offering better damage at longer ranges.
+
 The ultimate goal with this design is to create a fast 'scout' assault mech that can keep up with lighter units in a scout formation.
 
 .. figure:: img/magpie.webp
