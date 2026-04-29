@@ -13,6 +13,10 @@
 
     <i class="fa-fw fa-solid fa-robot"></i>
 
+.. |fa-asf| raw:: html
+
+    <i class="fa-fw fa-solid fa-jet-fighter"></i>
+
 .. |fa-trooper| raw:: html
 
     <i class="fa-fw fa-solid fa-person-rifle"></i>
@@ -157,6 +161,18 @@ Experimental Atlas Variants
 I've worked on a few custom Atlas variants representing experimental R&D in the late Succession Wars era.
 
 | |fa-mech| `Experimental Atlas Variants <https://battletech.jeremylt.org/atlas>`_: Big mechs
+
+
+Experimental Aerospace Fighter Variants
+--------------------------------------------------------------------------------
+
+.. figure:: img/riever.webp
+    :alt: BattleTech Riever
+    :width: 250px
+
+I'm working on a Riever variant representing experimental R&D in the late Succession Wars era.
+
+| |fa-asf| `Experimental Aerospace Fighter Variants <https://battletech.jeremylt.org/bomber>`_: B-52 *in spaaaace*
 
 
 Resources
