@@ -23,6 +23,8 @@ The AC/20 was moved from the nose to the rear to provide a deterrent to other ae
 Following field testing, the AC/20 was downgraded to an AC/10 to make space for an ECM suite and an internal TAG pod.
 With these modifications, Riever flights can support each other on deploying laser guided munitions when to ground forces with TAG are present.
 
+Two of the bomb bays can be configured to hold a rotary Arrow-IV launcher in order to deliver heavier munitions on ground targets.
+
 The ultimate goal with this design is to create a precision high altitude bomber.
 
 .. figure:: img/raven.webp
@@ -33,4 +35,5 @@ The ultimate goal with this design is to create a precision high altitude bomber
 | |fa-asf| YF-100.1: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.1.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.1>`_
 | |fa-asf| YF-100.2: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.2.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.2>`_
 | |fa-asf| YF-100.3: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.3.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.3>`_
+| |fa-asf| YF-100.4: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.4.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.4>`_
 
