@@ -12,11 +12,11 @@ YF-100 "Raven"
 </Model>
 
 <year>
-3006
+3206
 </year>
 
 <originalBuildYear>
-3007
+3206
 </originalBuildYear>
 
 <type>
@@ -34,6 +34,10 @@ internal_bomb
 <motion_type>
 Aerodyne
 </motion_type>
+
+<transporters>
+cargobay:12.0:0:1::-1:0
+</transporters>
 
 <SafeThrust>
 5
@@ -79,6 +83,7 @@ Aerodyne
 </armor>
 
 <Nose Equipment>
+CLArrowIV
 </Nose Equipment>
 
 <Left Wing Equipment>
@@ -88,18 +93,18 @@ Aerodyne
 </Right Wing Equipment>
 
 <Aft Equipment>
-Autocannon/20
+Autocannon/10
 </Aft Equipment>
 
 <Wings Equipment>
 </Wings Equipment>
 
 <Fuselage Equipment>
-IS Ammo AC/20
+CLArrowIVAmmo
+IS Ammo AC/10
 Cargo:SIZE:6.0
 Cargo:SIZE:6.0
-Cargo:SIZE:6.0
-Cargo:SIZE:6.0
+CLECMSuite
 </Fuselage Equipment>
 
 <capabilities>
@@ -107,7 +112,7 @@ A primary unit in Free Worlds League aerospace forces, the Riever makes up for i
 </capabilities>
 
 <deployment>
-This Wolf's Dragoons experimental version of the Riever focuses on bomb capacity and high altitude bombing. The SRM and LRM launchers have been removed, as well as 1 ton of AC/20 ammunition. The internal space was converted to 4 bomb bays, each capable of holding 6 bombs. The AC/20 was moved from the nose to the rear to provide a deterrent to other aerospace fighters strafing the Riever from the rear during a ground attack.
+This Wolf's Dragoons experimental version of the Riever focuses on bomb capacity and high altitude bombing. The SRM and LRM launchers have been removed, as well as 1 ton of AC/20 ammunition. The internal space was converted to 4 bomb bays, each capable of holding 6 bombs. The AC/20 was moved from the nose to the rear to provide a deterrent to other aerospace fighters strafing the Riever from the rear during a ground attack. Following field testing, the AC/20 was downgraded to an AC/10 to make space for an ECM suite and an internal TAG pod. With these modifications, Riever flights can support each other on deploying laser guided munitions when to ground forces with TAG are present. Two of the bomb bays can be configured to hold a rotary Arrow-IV launcher in order to deliver heavier munitions on ground targets.
 </deployment>
 
 <history>
