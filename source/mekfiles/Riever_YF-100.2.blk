@@ -1,0 +1,144 @@
+#Saved from version 0.50.05 on 2026-04-29
+<UnitType>
+AeroSpaceFighter
+</UnitType>
+
+<Name>
+Riever
+</Name>
+
+<Model>
+YF-100 "Raven"
+</Model>
+
+<year>
+3006
+</year>
+
+<originalBuildYear>
+3006
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<role>
+Attack Fighter
+</role>
+
+<quirks>
+internal_bomb
+</quirks>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+28
+</heatsinks>
+
+<sink_type>
+0
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+0
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+1
+</armor_tech_level>
+
+<armor>
+86
+61
+61
+48
+</armor>
+
+<Nose Equipment>
+</Nose Equipment>
+
+<Left Wing Equipment>
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+</Right Wing Equipment>
+
+<Aft Equipment>
+Autocannon/20
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+IS Ammo AC/20
+Cargo:SIZE:6.0
+Cargo:SIZE:6.0
+Cargo:SIZE:6.0
+Cargo:SIZE:6.0
+</Fuselage Equipment>
+
+<capabilities>
+A primary unit in Free Worlds League aerospace forces, the Riever makes up for its low maneuverability, thrust, and somewhat lackluster weapons systems with its ability to take a punch and stay in the fight until the job is done. This post–Star League design also brings to the table easy maintenance and repair routines, due to the need for simplicity, even as early as the first decade of the twenty-ninth century. The primary mission of the Riever remains that of anti-enemy fighter formations and DropShips, rather than ground support.
+</capabilities>
+
+<deployment>
+This Wolf's Dragoons experimental version of the Riever focuses on bomb capacity and high altitude bombing. The SRM and LRM launchers have been removed, as well as 1 ton of AC/20 ammunition. The internal space was converted to 4 bomb bays, each capable of holding 6 bombs. The AC/20 was moved from the nose to the rear to provide a deterrent to other aerospace fighters strafing the Riever from the rear during a ground attack.
+</deployment>
+
+<history>
+The Riever's primary weapon is an aerospace-modified Imperator Zeta-A AC/20, supplied with a meager 10 rounds. The four Beta-6 SRM launchers are intended for anti-aerospace fighter operations; capable of destroying light fighters easily, they can also do significant damage to medium and heavy fighters. The Gamma 10 LRM was a late addition to the Riever series.
+</history>
+
+<manufacturer>
+Free Worlds Defense Industries, Kurita Combine Munitions Corporation
+</manufacturer>
+
+<systemManufacturers>
+CHASSIS:Andurien AeroTech
+ENGINE:Andurien AeroTech
+ARMOR:Riese
+COMMUNICATIONS:Andurien AeroTech
+TARGETING:Andurien AeroTech
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Interstar Heavy
+ENGINE:Pitban 300a
+ARMOR:Riese 710
+COMMUNICATIONS:Lassitor-3QZ
+TARGETING:IMB SYS 3740
+</systemModels>
+
+<source>
+TRO: BATL
+</source>
+
+<tonnage>
+100.0
+</tonnage>
+
