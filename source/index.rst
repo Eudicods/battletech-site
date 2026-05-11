@@ -117,6 +117,18 @@ Alpha Strike Epic is a series of Alpha Strike events for Colorado BattleTech wit
 | |fa-mech| `Alpha Strike Epic <https://battletech.jeremylt.org/alpha-strike-epic>`_: More minis = more fun
 
 
+Atlas Extravaganza
+--------------------------------------------------------------------------------
+
+.. figure:: img/COBattleTechLogo.webp
+    :alt: Colorado BattleTech logo
+    :width: 250px
+
+A maximum carnage event centered around the poster child of BattleTech - the Atlas!
+
+| |fa-mech| `Atlas Extravaganza <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/AtlasExtravaganza.pdf>`_: Atlas on Atlas violence
+
+
 Pirate Point
 --------------------------------------------------------------------------------
 
