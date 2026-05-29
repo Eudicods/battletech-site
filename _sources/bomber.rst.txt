@@ -10,9 +10,10 @@ Experimental Aerospace Fighter Variants
     :width: 250px
 
 
-I'm working on a Riever variant representing experimental R&D in the late Succession Wars era.
+I have a Riever variant representing experimental R&D in the late Succession Wars era.
+The development of this ASF is heavily inspired by the `Boeing B-52 <https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress>`_.
 
-YF-100 "Raven"
+FB-100 "Raven"
 --------------------------------------------------------------------------------
 
 This Wolf's Dragoons experimental version of the Riever focuses on bomb capacity and high altitude bombing.
@@ -25,6 +26,8 @@ With these modifications, Riever flights can support each other to deploy laser 
 
 Two of the bomb bays can be configured to hold a rotary Arrow-IV launcher in order to deliver heavier munitions on ground targets.
 
+Re-engining the Riever to use the Pitban 300 XL allowed the platform to carry an additional 6 tons of bombs while also upgrading the electronic countermeasures suite to an Angel suite and incorporating two laser anti-missile systems to improve survivability.
+
 The ultimate goal with this design is to create a precision high altitude bomber.
 
 .. figure:: img/raven.webp
@@ -36,4 +39,6 @@ The ultimate goal with this design is to create a precision high altitude bomber
 | |fa-asf| FB-100A: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100A.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100A.blk>`_
 | |fa-asf| FB-100B: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100B.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100B.blk>`_
 | |fa-asf| FB-100C: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100C.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100C.blk>`_
+| |fa-asf| FB-100D: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100D.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100D.blk>`_
+| |fa-asf| FB-100E: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100E.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100E.blk>`_
 
