@@ -1,4 +1,4 @@
-#Saved from version 0.50.05 on 2026-04-29
+#Saved from version 0.50.12 on 2026-05-29
 <UnitType>
 AeroSpaceFighter
 </UnitType>
@@ -8,7 +8,7 @@ Riever
 </Name>
 
 <Model>
-YF-100 "Raven"
+FB-100C "Raven"
 </Model>
 
 <year>
@@ -16,7 +16,7 @@ YF-100 "Raven"
 </year>
 
 <originalBuildYear>
-3008
+3206
 </originalBuildYear>
 
 <type>
@@ -36,10 +36,7 @@ Aerodyne
 </motion_type>
 
 <transporters>
-cargobay:6.0:1:0::-1:0
-cargobay:6.0:1:1::-1:0
-cargobay:6.0:1:2::-1:0
-cargobay:6.0:1:3::-1:0
+cargobay:12.0:0:1::-1:0
 </transporters>
 
 <SafeThrust>
@@ -86,7 +83,7 @@ cargobay:6.0:1:3::-1:0
 </armor>
 
 <Nose Equipment>
-CLTAG
+CLArrowIV
 </Nose Equipment>
 
 <Left Wing Equipment>
@@ -103,11 +100,10 @@ Autocannon/10
 </Wings Equipment>
 
 <Fuselage Equipment>
-Cargo:SIZE:6.0
-Cargo:SIZE:6.0
-Cargo:SIZE:6.0
-Cargo:SIZE:6.0
+CLArrowIVAmmo
 IS Ammo AC/10
+Cargo:SIZE:6.0
+Cargo:SIZE:6.0
 CLECMSuite
 </Fuselage Equipment>
 
@@ -116,7 +112,7 @@ A primary unit in Free Worlds League aerospace forces, the Riever makes up for i
 </capabilities>
 
 <deployment>
-This Wolf's Dragoons experimental version of the Riever focuses on bomb capacity and high altitude bombing. The SRM and LRM launchers have been removed, as well as 1 ton of AC/20 ammunition. The internal space was converted to 4 bomb bays, each capable of holding 6 bombs. The AC/20 was moved from the nose to the rear to provide a deterrent to other aerospace fighters strafing the Riever from the rear during a ground attack. Following field testing, the AC/20 was downgraded to an AC/10 to make space for an electronic countermeasures suite and an internal Target Acquisition Gear pod. With these modifications, Riever flights can support each other to deploy laser guided munitions when ground forces with TAG are not present.
+This Wolf's Dragoons experimental version of the Riever focuses on bomb capacity and high altitude bombing. The SRM and LRM launchers have been removed, as well as 1 ton of AC/20 ammunition. The internal space was converted to 4 bomb bays, each capable of holding 6 bombs. The AC/20 was moved from the nose to the rear to provide a deterrent to other aerospace fighters strafing the Riever from the rear during a ground attack. Following field testing, the AC/20 was downgraded to an AC/10 to make space for an electronic countermeasures suite and an internal TAG pod. With these modifications, Riever flights can support each other to deploy laser guided munitions when ground forces with Target Acquisition Gear are not present. Two of the bomb bays can be configured to hold a rotary Arrow-IV launcher in order to deliver heavier munitions on ground targets.
 </deployment>
 
 <history>
@@ -150,4 +146,5 @@ TRO: BATL
 <tonnage>
 100.0
 </tonnage>
+
 
