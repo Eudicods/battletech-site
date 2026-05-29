@@ -32,8 +32,8 @@ The ultimate goal with this design is to create a precision high altitude bomber
     :width: 250px
 
 
-| |fa-asf| YF-100.1: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.1.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.1>`_
-| |fa-asf| YF-100.2: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.2.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.2>`_
-| |fa-asf| YF-100.3: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.3.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.3>`_
-| |fa-asf| YF-100.4: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YF-100.4.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YF-100.4>`_
+| |fa-asf| YFB-100: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_YFB-100.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_YFB-100>`_
+| |fa-asf| FB-100A: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100A.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100A>`_
+| |fa-asf| FB-100B: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100B.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100B>`_
+| |fa-asf| FB-100C: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Riever_FB-100C.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Riever_FB-100C>`_
 
