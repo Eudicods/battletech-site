@@ -28,8 +28,6 @@ Two of the bomb bays can be configured to hold a rotary Arrow-IV launcher in ord
 
 Re-engining the Riever to use the Pitban 300 XL allowed the platform to carry an additional 6 tons of bombs while also upgrading the electronic countermeasures suite to an Angel suite and incorporating two laser anti-missile systems to improve survivability.
 
-The ultimate goal with this design is to create a precision high altitude bomber.
-
 .. figure:: img/raven.webp
     :alt: Thick-billed raven
     :width: 250px
