@@ -172,7 +172,7 @@ Experimental Atlas Variants
 
 I've worked on a few custom Atlas variants representing experimental R&D in the late Succession Wars era.
 
-| |fa-mech| `Experimental Atlas Variants <https://battletech.jeremylt.org/atlas>`_: Big mechs
+| |fa-mech| `Experimental Atlas Variants <https://battletech.jeremylt.org/atlas>`_: Big 'mechs
 
 
 Experimental Aerospace Fighter Variants
@@ -185,6 +185,18 @@ Experimental Aerospace Fighter Variants
 I'm working on a Riever variant representing experimental R&D in the late Succession Wars era.
 
 | |fa-asf| `Experimental Aerospace Fighter Variants <https://battletech.jeremylt.org/bomber>`_: B-52 *in spaaaace*
+
+
+Star League Monthly 'Mech Design Contest
+--------------------------------------------------------------------------------
+
+.. figure:: img/StarLeague.webp
+    :alt: Star League Discord logo
+    :height: 250px
+
+I have submissions to the Stare League Monthly 'Mech Design Contest here.
+
+| |fa-mech| `'Mech Design Contest <https://battletech.jeremylt.org/star-league>`_: Custom 'mechs
 
 
 Resources
