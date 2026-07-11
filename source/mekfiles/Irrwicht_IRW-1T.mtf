@@ -1,0 +1,177 @@
+generator:MegaMek Suite 0.50.12 on 2026-07-11
+chassis:Irrwicht
+model:IRW-1T
+
+Config:Biped
+techbase:Inner Sphere
+era:3152
+rules level:2
+role:Skirmisher
+
+quirk:easy_pilot
+quirk:easy_maintain
+quirk:rugged_1
+
+mass:55
+engine:275 Fusion Engine
+structure:IS Standard
+myomer:Standard
+
+heat sinks:11 IS Double
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:18
+RA armor:18
+LT armor:20
+RT armor:20
+CT armor:27
+HD armor:9
+LL armor:26
+RL armor:26
+RTL armor:6
+RTR armor:6
+RTC armor:8
+
+Weapons:6
+Small Pulse Laser, Left Arm
+Small Pulse Laser, Left Arm
+ER Medium Laser, Left Torso
+Medium Pulse Laser, Left Torso
+ER Medium Laser, Right Torso
+Medium Pulse Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSmallPulseLaser
+ISSmallPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+-Empty-
+-Empty-
+
+Left Torso:
+Searchlight
+ISERMediumLaser
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISERMediumLaser
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cargo:SIZE:1.0
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:While a relatively new design, the Irrwicht uses rugged components and relatively simple technology. It is designed to operate with minimal logistical support and require only limited pilot training. An agricultural or industrial mech pilot can become familiar with the 'Mech in short order, allowing new recruits to join the fighting quickly if necessary.
+
+capabilities:The Irrwicht favors close engagements, with its shorter range weaponry and heavy armor. The mace and pulse weaponry is intended for pilots with stronger 'Mech piloting skills than experience with targeting ranged military weaponry. The small pulse lasers in particular are intended for targeting infantry and police forces while the moderate top speed of 86 km/h makes the Irrwicht a capable raider.
+
+deployment:In its first deployment, the base design, the Irrwicht IRW-1T, proved successful in border raids against the Raven Alliance from pirate forces operating out of the Outworlds Wastes. The Draconis Combine also encountered the design during in border raids in short order. Unfortunately, the rugged design rapidly proliferated, and the Federated Suns soon found themselves fighting their own design, much to the disappointment of MIIO. As these raiders captured 'Mechs equipped with clan technology, the various medium lasers on the Irrwicht often received field upgrades, resulting in a wide variance in range capabilities, complicating MIIO's efforts to provide intelligence on the unit to border militia units.
+
+history:The Federated Suns Ministry of Information, Intelligence, and Operations (MIIO) found themselves operating under strong resource constraints following reclaiming of New Avalon and the Dragon's Tongue during Operation SOLAR FLARE. MIIO created task forces to investigate low cost approaches to deter aggression from the Federated Sun's historical enemies. The Covert Operations Division proposed designing an inexpensive BattleMech which could be supplied to rebels in neighboring realms to help destabilize their traditional rivals. The design team started with a 55 ton chassis, allowing the Irrwicht to share common components with many prolific designs, such as the Griffin, Shadow Hawk, and Wolverine BattleMechs. From there, the team focused on designing a platform for pilots with minimal military training but reasonable experience piloting agricultural or industrial 'Mechs. The resulting design proved highly popular in the Periphery, especially when paired with units with longer range capabilities, such as the Merlin. The initial production run used components from as many different manufacturers to demonstrate the ease of maintenance for this platform, with no two units in this production run containing identically matching components. The MIIO intended to use a shell company to collect licensing fees for the design to fund covert operations; however, the simplicity of the design proved easy to replicate and soon several Periphery manufacturers were creating unlicensed replicas.
+
+manufacturer:Various
+
+primaryfactory:Various
+
+fluffdate:2026-07-11 16:03:36
+
+systemmanufacturer:CHASSIS:Earthwerks IRW
+systemmanufacturer:ENGINE:CoreTek 275
+systemmanufacturer:ARMOR:Maximillian 60
+systemmanufacturer:JUMP_JET:None
+systemmanufacturer:COMMUNICATIONS:Various
+systemmanufacturer:TARGETING:Various
+
