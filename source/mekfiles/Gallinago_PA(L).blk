@@ -1,0 +1,142 @@
+#Saved from version 0.50.12 on 2026-08-06
+<UnitType>
+BattleArmor
+</UnitType>
+
+<Name>
+Gallinago PA(L)
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+3050
+</year>
+
+<originalBuildYear>
+3050
+</originalBuildYear>
+
+<type>
+IS Level 2
+</type>
+
+<role>
+Sniper
+</role>
+
+<quirks>
+difficult_maintain
+non_standard
+</quirks>
+
+<motion_type>
+Jump
+</motion_type>
+
+<cruiseMP>
+1
+</cruiseMP>
+
+<armor_type>
+28
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<Squad Equipment>
+BAAPMount:RA
+Sniper Rifle (Barton AMR (Anti-Armor)):APM
+Camo System:Body
+BAArmoredGlove:LA
+BAArmoredGlove:RA
+BALaserMicrophone:LA
+ISBAHeatSensor:RA
+</Squad Equipment>
+
+<Trooper 1 Equipment>
+</Trooper 1 Equipment>
+
+<Trooper 2 Equipment>
+</Trooper 2 Equipment>
+
+<Trooper 3 Equipment>
+</Trooper 3 Equipment>
+
+<Trooper 4 Equipment>
+</Trooper 4 Equipment>
+
+<slotless_equipment>
+BAJumpJet
+IS BA Standard (Basic)
+</slotless_equipment>
+
+<capabilities>
+Equipped with advanced camouflage and surveillance equipment, the Gallinago suits are designed for monitoring and eliminating high value targets. The limited jump-jet capabilities on the suits was added when the Juncus VTOL was added to the Outworlds Alliance Intelligence inventory.
+</capabilities>
+
+<overview>
+Outworlds Alliance Intelligence operatives managed to locate a pair of Tornado power armor suits inadvertently misrouted by ComStar. While they were not able to exactly replicate the suits, they could approximate the stealth systems, albeit with significantly reduced armor coverage for operatives.
+</overview>
+
+<deployment>
+Unconfirmed sightings of the Gallinago have been reported on Dante and Baliggora.
+</deployment>
+
+<history>
+When Outworlds Alliance Intelligence received two Tornado power armor suits, they were unsure if they should disassemble the suits for research or preserve them for special operations. Ultimately, OAI leadership decided to disassemble the suits to research and develop clones. While the the Gallinago suits have significantly reduced capabilities, they represent a significant advantage against their typical targets, ultimately proving the decision to disassemble the Tornado suits to be the right one for the OAI.
+</history>
+
+<manufacturer>
+Outworlds Alliance Intelligence
+</manufacturer>
+
+<primaryFactory>
+Unknown
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemModels>
+
+<fluffDate>
+2026-08-06 16:33:51
+</fluffDate>
+
+<chassis>
+biped
+</chassis>
+
+<jumpingMP>
+3
+</jumpingMP>
+
+<armor>
+0
+</armor>
+
+<Trooper Count>
+4
+</Trooper Count>
+
+<weightclass>
+0
+</weightclass>
+
+

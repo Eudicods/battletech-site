@@ -1,0 +1,145 @@
+#Saved from version 0.50.12 on 2026-08-06
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Juncus
+</Name>
+
+<Model>
+JS-93
+</Model>
+
+<year>
+3050
+</year>
+
+<originalBuildYear>
+3050
+</originalBuildYear>
+
+<type>
+IS Level 2
+</type>
+
+<quirks>
+searchlight
+</quirks>
+
+<weaponQuirks>
+jettison_capable:RS:0:Machine Gun
+exposed_linkage:RS:0:Machine Gun
+jettison_capable:LS:0:Machine Gun
+exposed_linkage:LS:0:Machine Gun
+</weaponQuirks>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+troopspace:4.0
+</transporters>
+
+<cruiseMP>
+12
+</cruiseMP>
+
+<engine_type>
+6
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+0
+</armor_tech_level>
+
+<armor>
+10
+7
+7
+6
+2
+</armor>
+
+<Body Equipment>
+ISVTOLJetBooster
+ISVehicularMineDispenser
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+ISMastMount
+ISReconCamera
+RemoteSensorDispenser
+</Rotor Equipment>
+
+<capabilities>
+The mast mounted observation equipment allows the Juncus to locate and monitor targets while staying hidden by terrain. Once identified, sharpshooter teams can dispatch high value targets. The platform also carried mines and sensor dispensers to help monitor and delay enemy forces.
+</capabilities>
+
+<overview>
+The Outworlds Alliance historically has relied upon its superior aerospace pilots to protect their citizens from pirates and other external threats. However, the Alliance Military Corps remained concerned about the growing skill gap between their ground forces and those of neighboring realms or even some pirate bands. To this end, leadership commissioned the Juncus project - a fast, low observable VTOL platform designed to insert sharpshooters behind enemy lines to target commanders and specialists. Development of the Juncus proved to be fraught with problems, as the Outworlds Alliance does not have particularly many factories capable of producing military combat vehicles. Ultimately, the contract went to Kukk Transportation Industries, which was primarily known for their Sparrowhawk SPR-DH but proved to be up to the task of a limited production run of the Jancus.
+</overview>
+
+<deployment>
+The Juncus saw limited deployment with the Alliance Military Corps. However, the Outworlds Alliance Intelligence service found the platform well suited to their needs, especially with the Infiltration Division. The platform's low heat signature and mast mounted surveillance equipment made it ideal for stealthy insertions.
+</deployment>
+
+<history>
+Given the principal usage of the Juncus is by the Outworlds Alliance Intelligence service, details about its deployment history are difficult to come by. While government officials reported the platform was successful at suppressing pirate raids, this has not been independently confirmed. The bulk of sightings of the Juncus in Outworlds Alliance territory have been on Dante and Baliggora, fueling suspicion that the platform has primarily seen usage against 'internal threats'.
+</history>
+
+<manufacturer>
+Kukk Transportation Industries
+</manufacturer>
+
+<primaryFactory>
+Cerberus
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Kukk Transportations Industries
+ENGINE:Alliance Motors Limited
+ARMOR:Alliance Mining and Geology
+COMMUNICATIONS:Arenthir Electronics
+</systemManufacturers>
+
+<systemModels>
+CHASSIS:GN
+ENGINE:Alliance 140
+ARMOR:StarSlab/2
+COMMUNICATIONS:Garret Type 4
+</systemModels>
+
+<fluffDate>
+2026-08-06 15:57:04
+</fluffDate>
+
+<tonnage>
+23.0
+</tonnage>
+
+
