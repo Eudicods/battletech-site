@@ -1,0 +1,180 @@
+generator:MegaMek Suite 0.50.12 on 2026-09-10
+chassis:Lightning Bug
+model:LTN-GB16
+
+Config:LAM
+techbase:Inner Sphere
+era:3056
+rules level:4
+
+quirk:prototype
+quirk:non_standard
+
+mass:50
+engine:150 Fusion Engine
+structure:IS Standard
+myomer:Standard
+lam:Bimodal
+
+heat sinks:11 Single
+walk mp:3
+jump mp:5
+
+armor:Standard(Inner Sphere)
+LA armor:7
+RA armor:7
+LT armor:9
+RT armor:9
+CT armor:12
+HD armor:9
+LL armor:10
+RL armor:10
+RTL armor:2
+RTR armor:2
+RTC armor:3
+
+Weapons:5
+AC/20, Right Torso
+Medium Laser, Right Arm
+Medium Laser, Left Arm
+Small Laser, Right Arm
+Small Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+Small Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+Small Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Landing Gear
+Avionics
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+IS Ammo AC/20
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Landing Gear
+Avionics
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Landing Gear
+ISPrototypeImprovedJumpJet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Avionics
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISPrototypeImprovedJumpJet
+ISPrototypeImprovedJumpJet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISPrototypeImprovedJumpJet
+ISPrototypeImprovedJumpJet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:During the Long Road program, United Outworlders Corporation saw an opportunity to try to replicate the success of Mountain Wolf BattleMechs and get Outworlds Alliance support in the development and deployment of a new BattleMech. Given the Outworlds Alliance Militia’s traditional preference for Aerospace Fighters, United Outworlders proposed the development of a ground-capable variant of the venerable LGN-G15 that had been a mainstay of OAM Aerospace Arm. The resulting Land-Air Mech underperformed, resulting in the cancellation of the project.
+
+capabilities:Designed as a ground-capable version of the Lightning ASF, the project was ultimately deemed to be a failure, as the LAM underperformed in both its ASF and BattleMech roles. The bulky transition equipment meant that the designers reduced the underlying capabilities of the Lightning ASF, resulting in a unit that was under-gunned, under-sunk, and had too small of an engine.
+
+deployment:There was no known combat deployment of the LGN-GB16 Lightning Bug.
+
+history:The design team was tasked with maintaining the basic airframe and capabilities of the LTN-GB16 Lightning while modifying the unit to have ground capabilities. Due to some fortunate corporate espionage, United Outworlders Corporation acquired a pair of Federated Suns prototype improved jump jets. The greater weight of these components, combined with the bulky transition gear, made it challenging for the engineers to fit all of the requested equipment. The team found themselves prohibited from decreasing armament and were forced to decrease the engine size and remove heat sinks. The resulting LAM had relatively slow ground speed and 2 of the medium lasers had to be replaced with small lasers to provide improved anti-infantry protection. Additionally, the non-standard components and experimental gear would have required extensive maintenance support. Ultimately, these compromises left the LTN-GB16 inadequate in all of its roles. During testing, 2 lances of LTN-GB16 prototypes faced 2 LTN-G15s and a lance of Locust BattleMechs. Despite their numerical advantage, the LGT-GB16 lances were soundly defeated in all test scenarios. These defeats at the hands of not only fellow ASF pilots but also ground forces they traditionally looked down upon lead to a strong negative review of the program by all 8 test pilots, sealing the fate of the program.
+
+manufacturer:United Outworlders Corporation
+
+primaryfactory:Ramora
+
+fluffdate:2026-09-10 10:54:50
+
+systemmanufacturer:CHASSIS:Hildco Aerospace
+systemmode:CHASSIS:Type 4L
+systemmanufacturer:ENGINE:Alliance Motors Limited
+systemmode:ENGINE:AML 150
+systemmanufacturer:ARMOR:Alliance Mining and Geology
+systemmode:ARMOR:StarSlab/5
+systemmanufacturer:JUMP_JET:United Outworlders Corporation
+systemmanufacturer:COMMUNICATIONS:United Outworlders Corporation
+systemmode:COMMUNICATIONS:Endicott Type 22 master
+systemmanufacturer:TARGETING:United Outworlders Corporation
+systemmode:TARGETING:Dwyerson Mark XI
+
