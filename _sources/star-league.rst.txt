@@ -59,3 +59,19 @@ The non-standard components and experimental gear would have required extensive 
 
 | |fa-mech| LTN-GB16: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Lightning_Bug_LTN-GB16.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Lightning_Bug_LTN-GB16.mtf>`_
 
+
+October 2026 - Atlas AS7-C3
+--------------------------------------------------------------------------------
+
+  "What do you mean 'nuke them'?!?" Jance pressed the heels of their hands into their eyes. "Please tell me you are kidding. Do you know how heavy and expensive equipment to launch a Davy Crockett is?"
+  
+  The Chairman chewed on the end of his cigar. "I don't care; rip out whatever you need, just make sure it can launch a Davy and won't die until it does. We have 10 million to spend on this."
+  
+  As he was walking out the door, the Chairman said over his shoulder, "Oh, and make it jump. Parliament'll grumble less about the price if they can see it flying through the air."
+  
+  Jance sighed. This was going to be a painfully long month.
+
+Born from a crash requirement to make a nuclear capable Atlas, the Atlas AS7-C3 can be thought of as a 'budget' Atlas C 3. The entire weapons loadout of the Atlas AS7-D was sacrificed to fit the Arrow IV launcher.  An extra ton of armor and a 10 ton cape was added to improve survivability, as well as machine guns and anti-infantry pods. In the sole concession to sanity that the design team was able to convince planetary leadership to follow, a command console was added and both the pilot and commander had to agree to launch the Davy Crockett. 
+
+| |fa-mech| AS7-C3: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-C3.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-C3.mtf>`_
+
