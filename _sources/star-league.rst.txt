@@ -71,7 +71,25 @@ October 2026 - Atlas AS7-C3
   
   Jance sighed. This was going to be a painfully long month.
 
-Born from a crash requirement to make a nuclear capable Atlas, the Atlas AS7-C3 can be thought of as a 'budget' Atlas C 3. The entire weapons loadout of the Atlas AS7-D was sacrificed to fit the Arrow IV launcher.  An extra ton of armor and a 10 ton cape was added to improve survivability, as well as machine guns and anti-infantry pods. In the sole concession to sanity that the design team was able to convince planetary leadership to follow, a command console was added and both the pilot and commander had to agree to launch the Davy Crockett. 
+Born from a crash requirement to make a nuclear capable Atlas, the Atlas AS7-C3 can be thought of as a 'budget' Atlas C 3. The entire weapons loadout of the Atlas AS7-D was sacrificed to fit the Arrow IV launcher.  An extra ton of armor and a 10 ton cape was added to improve survivability, as well as machine guns and anti-infantry pods. In the sole concession to sanity that the design team was able to convince planetary leadership to follow, a command console was added and both the pilot and commander had to agree to launch the Davy Crockett.
 
 | |fa-mech| AS7-C3: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Atlas_AS7-C3.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Atlas_AS7-C3.mtf>`_
+
+
+November 2026 - Bo Tat BH-123K
+--------------------------------------------------------------------------------
+
+  Jance was starting to get really sick of being the 'genius' for the Chairman's absurd schemes.
+  
+  The booster was needed to keep the bloody VTOL survivable, but it guzzled so much petrol that the ammunition for the anti-missile systems was uncomfortably low.
+  But the only other nob to adjust was the armor, and going under 2 tons would not be comfortable for the troopers inside.
+
+  If it wasn't for the Traiq troopers inside, Jance'd have just fumbled this one in the hopes of getting a break from this stream of stupid 'special projects'.
+  Maybe with enough beer they could be bribed to fly over the Chairman's house while accidentally sweeping out Tariq turds...
+
+The Bo Tat was designed in the Outworlds Alliance to provide planetary airlift for Tariq mounted infantry.
+Standard airlift options generally proved to be preferable to the limited range and protection of the Bo Tat, so wide production was not adopted in the Outworlds Alliance.
+However, the Branth Irregulars in the Free Worlds League purchased several of these VTOL to allow them to deploy fresh Branth from midair into battle.
+
+| |fa-mech| BH-123K: `PDF <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/pdfs/Bo_Tat_BH-123K.pdf>`_, `MegaMekLab file <https://raw.githubusercontent.com/Eudicods/battletech-site/main/source/mekfiles/Bo_Tat_BT-123K.blk>`_
 
